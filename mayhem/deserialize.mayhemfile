@@ -1,0 +1,6 @@
+project: desse
+target: deserialize
+cmds:
+    - cmd: /deserialize
+testsuite:
+    - file://mayhem/large_inputs

@@ -1,0 +1,6 @@
+project: desse
+target: round-trip
+cmds:
+    - cmd: /round_trip
+testsuite:
+    - file://mayhem/large_inputs
